@@ -1,0 +1,7 @@
+🗣 C. Rəy və Təklif Asistantı
+🎯 Məqsəd:
+İşçilərin sənədlərlə bağlı rəy və təkliflərininin süni intellect ilə yaradılması
+🔹 Funksiyalar:
+•	Süni intellekt tərəfindən analiz edilmesi rey ve tekliflerin hazırlanması
+Xüsusi qeydlər
+-	Azərbaycan qanunvericiliyi və onboarding chatbotda öyrədiləcək layihə və strategiyalara əsaslanaraq məktublara cavabın formalaşdırılması və ya layihəyə rəy və təkliflərin verilmesinin avtomatlaşdırılması
