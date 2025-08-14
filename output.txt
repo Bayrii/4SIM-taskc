@@ -1,0 +1,45 @@
+ÜMUMİ RƏY
+
+"Rəqəmsal İnnovasiya və Kibertəhlükəsizlik Şöbəsi"nin yaradılması təklifi, Azərbaycanın rəqəmsal transformasiya strategiyasına uyğun olaraq, əhəmiyyətli və zəruri bir addımdır. Lakin, təklifdə bəzi aydınlaşdırılmalı məqamlar və təkmilləşdirilməli aspektlər mövcuddur.  Təklif ümumiyyətlə dəstəklənir, lakin onun uğurlu icrası üçün əlavə tədbirlər və dəqiqləşdirmələr tələb olunur.
+
+
+REGULYATİV VƏ STRATEJİ UYĞUNLUQ
+
+* **Qanuni əsaslar və mövcud sənədlərlə müqayisə:** Təklif, Azərbaycan Respublikasının Konstitusiyasının dövlət orqanlarının fəaliyyətinə dair müddəalarına və "Dövlət qulluğu haqqında" Qanuna uyğundur.  "Rəqəmsal Azərbaycan" strategiyası və digər müvafiq dövlət proqramları ilə tam uyğunluq təmin edilməlidir.  Bu uyğunluğun dəqiq göstərilməsi təklifdə əks olunmalıdır.
+* **Oxşar təcrübə və ziddiyyət nümunələri:** Digər dövlət qurumlarında oxşar şöbələrin təcrübəsi araşdırılmalı və onların uğurlu və uğursuz tərəfləri təhlil edilməlidir.  Bu təhlil, təklifin daha effektiv və səmərəli olmasına kömək edəcəkdir.  Məsələn, digər nazirliklərdəki kibertəhlükəsizlik şöbələrinin strukturu, büdcəsi və fəaliyyəti ilə müqayisə aparılmalıdır.
+
+
+GÜCLÜ TƏRƏFLƏR
+
+* Təklif, Azərbaycanın rəqəmsal iqtisadiyyata keçidini sürətləndirmək üçün vacib olan kibertəhlükəsizlik və rəqəmsal innovasiya sahələrində ixtisaslaşmış şöbənin yaradılmasını nəzərdə tutur.
+* Şöbənin funksiyaları aydın və konkret şəkildə müəyyən edilmişdir.
+
+
+ZƏİF VƏ PROBLEMLİ SAHƏLƏR
+
+* **Büdcənin əsaslandırılması:** 420,000 AZN-lik illik büdcənin ətraflı əsaslandırılması tələb olunur.  Əmək haqqı, avadanlıq və digər xərclərin detallı təhlili verilməlidir.  Xərclərin səmərəliliyi və alternativ maliyyələşmə mənbələri araşdırılmalıdır.
+* **Kadr potensialı:**  Şöbənin işçilərinin peşəkarlıq səviyyəsi və təcrübəsi haqqında məlumat verilməlidir.  Yeni işçilərin seçimi və təlimi üçün plan hazırlanmalıdır.  Mövcud əməkdaşların yeni vəzifələrə hazırlanması üçün təlim proqramları nəzərdə tutulmalıdır.
+* **Risklərin qiymətləndirilməsi:**  Təklifdə potensial risklər (məsələn, kiber hücumlar, kadr çatışmazlığı, texnoloji yeniliklərə uyğunlaşma çətinlikləri) və onların idarə olunması mexanizmləri ətraflı şəkildə təhlil edilməlidir.
+
+
+TƏKLİFLƏR
+
+1. **Büdcənin detallı əsaslandırılması:** Maliyyə Nazirliyi ilə əlaqə saxlanılaraq, büdcənin hər bir maddəsi (əmək haqqı, avadanlıq, proqram təminatı, təlim və s.) əsaslandırılmalı və mümkün maliyyələşmə mənbələri araşdırılmalıdır.  **Məsul tərəf:** Nazirliyin Maliyyə Şöbəsi; **İcra müddəti:** 1 ay.
+2. **Kadr seçimi və təlimi planı:**  Şöbənin işçilərinin seçimi üçün aydın meyarlar müəyyən edilməli və onların peşəkar inkişafı üçün təlim proqramları hazırlanmalıdır.  **Məsul tərəf:** İnsan Resursları Şöbəsi; **İcra müddəti:** 3 ay.
+3. **Risklərin idarə olunması planı:**  Potensial risklərin (hüquqi, maliyyə, texnoloji və s.) təhlili aparılmalı və onların idarə olunması üçün konkret tədbirlər müəyyən edilməlidir.  **Məsul tərəf:** Rəqəmsal İnnovasiya və Kibertəhlükəsizlik Şöbəsi (yaradıldıqdan sonra); **İcra müddəti:** 6 ay.
+4. **Digər nazirliklərin təcrübəsinin öyrənilməsi:**  Oxşar şöbələrin fəaliyyəti araşdırılmalı və onların təcrübəsi təklifin hazırlanmasında nəzərə alınmalıdır.  **Məsul tərəf:**  Layihə Qrupu; **İcra müddəti:** 2 ay.
+
+
+HÜQUQİ QEYDLƏR
+
+Təklif "Dövlət qulluğu haqqında" Qanun, "İnformasiya texnologiyaları haqqında" Qanun və digər müvafiq qanunvericilik aktlarına uyğun olaraq hazırlanmalıdır.  Nazirliyin daxili əmək qaydaları və prosedurları ilə də uyğunluq təmin edilməlidir.  Təklif Nazirlər Kabinetinə təqdim edilməzdən əvvəl hüquqi ekspertizadan keçirilməlidir.
+
+
+MALİYYƏ ƏSASLARI
+
+Təklif olunan 420,000 AZN-lik büdcənin detallı təhlili və əsaslandırılması tələb olunur.  Hər bir xərc maddəsi (əmək haqqı, avadanlıq, proqram təminatı və s.) ayrıca göstərilməlidir.  Büdcənin səmərəliliyi və alternativ maliyyələşmə mənbələri araşdırılmalıdır.
+
+
+YEKUN QİYMƏTLƏNDİRMƏ
+
+Təklif, Azərbaycanın rəqəmsal transformasiya strategiyasına uyğun olaraq, əhəmiyyətli və zəruridir.  Lakin, təklifin uğurlu icrası üçün yuxarıda göstərilən təkliflərin həyata keçirilməsi vacibdir.  Bu təkliflərin icrası ilə təklif **şərti olaraq dəstəklənir**.

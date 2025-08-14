@@ -3,7 +3,7 @@ import google.generativeai as genai
 from google.generativeai.types import GenerationConfig
 from prompt import build_prompt
 from test_file import extract_text
-from tools import write_to_docx
+from tools import write_to_docx, write_to_txt, write_to_html
 
 
 def get_response(prompt_, mode_name='gemini-1.5-flash'):
@@ -89,6 +89,7 @@ def main():
 
 
     write_to_docx(response)
+    write_to_html(response)
 
     # with open(r"../results/result.txt", "w", encoding="utf-8") as file:
     #     file.write(response)
