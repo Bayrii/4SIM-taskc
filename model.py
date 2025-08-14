@@ -1,10 +1,9 @@
+"""Imports"""
 import google.generativeai as genai
 from google.generativeai.types import GenerationConfig
-from docx import Document
-import re
 from prompt import build_prompt
 from test_file import extract_text
-
+from tools import write_to_docx
 
 
 def get_response(prompt_, mode_name='gemini-1.5-flash'):
@@ -77,46 +76,6 @@ def parse_response(response_text):
 
     pass
 
-def write_to_docx(text):
-    """Writing text to files"""
-
-    doc = Document()
-
-    # Başlıqları və mətni ayır
-    for line in text.split("\n"):
-        line = line.strip()
-        if not line:
-            continue
-
-        # Başlıq (tam sətir böyük hərflərlə və ulduzsuz)
-        if re.fullmatch(r"\*{0,2}[A-ZƏÖÜĞÇŞİ\s]+", line):
-            clean_title = line.replace("*", "").strip()
-            doc.add_heading(clean_title, level=1)
-
-        # Bullet point
-        elif line.startswith("* "):
-            bullet_text = line[2:].strip()
-            # Qalın sözləri formatlamaq üçün
-            paragraph = doc.add_paragraph(style='List Bullet')
-            while "**" in bullet_text:
-                before, bold, after = re.split(r"\*\*(.+?)\*\*", bullet_text, 1)
-                paragraph.add_run(before)
-                paragraph.add_run(bold).bold = True
-                bullet_text = after
-            paragraph.add_run(bullet_text)
-
-        # Adi mətn
-        else:
-            paragraph = doc.add_paragraph()
-            while "**" in line:
-                before, bold, after = re.split(r"\*\*(.+?)\*\*", line, 1)
-                paragraph.add_run(before)
-                paragraph.add_run(bold).bold = True
-                line = after
-            paragraph.add_run(line)
-
-    doc.save("output.docx")
-
 
 def main():
 
@@ -128,9 +87,10 @@ def main():
 
     response = get_response(prompt)
 
-    print("Starting to writing...\n")
+
     write_to_docx(response)
-    # with open("result.txt", "w", encoding="utf-8") as file:
+
+    # with open(r"../results/result.txt", "w", encoding="utf-8") as file:
     #     file.write(response)
     #     print("Completed!")
 
